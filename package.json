@@ -1,5 +1,5 @@
 {
-  "name": "next-google-docs",
+  "name": "google-docs-clone",
   "private": true,
   "scripts": {
     "dev": "next dev",
