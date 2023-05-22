@@ -6,7 +6,7 @@ To ensure the security of user data,it uses NextAuth.js, a library for handling 
 
 
 
-## Technologies I've used 👨‍
+## Technologies used
 
 - [Next.js](https://nextjs.org/) 
 - [NextAuth.js](https://next-auth.js.org/) 
